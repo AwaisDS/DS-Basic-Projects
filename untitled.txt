@@ -1,0 +1,29 @@
+1. Understand the Dataset
+Q1: What are the columns and their data types?
+Q2: How many rows and columns does the dataset have?
+Q3: Are there any missing values? If yes, which columns have them, and how will you handle them?
+
+2. Perform Exploratory Data Analysis (EDA)
+Q4: What is the distribution of laptop prices? (Plot histograms or box plots.)
+Q5: What are the most expensive and least expensive laptops?
+Q6: Are there any outliers in the price column? If yes, which records are they?
+Q7: How does the price vary with different brands? (Group by brand and find average/median price.)
+Q8: What are the most common configurations (e.g., RAM, storage) in the dataset?
+
+3. Relationships Between Variables
+Q9: How does the price correlate with RAM, storage, processor type, or screen size? (Use correlation analysis or scatter plots.)
+Q10: Is there any significant difference in prices based on the type of laptops (e.g., gaming, ultrabooks, etc.)?
+
+4. Advanced Analysis
+Q11: Which brand offers the best value for money? (Compare price vs. performance features.)
+Q12: Are certain laptop features (e.g., SSD, higher refresh rates) associated with higher prices?
+Q13: Can you identify any trends in pricing based on release year or specifications?
+
+5. Visualize the Insights
+Q14: What are the top 5 brands based on their average laptop price? (Use a bar chart.)
+Q15: Create a heatmap showing correlations between numerical features.
+Q16: Visualize the price distribution for different brands or configurations using boxplots or violin plots.
+
+6. Conclusion and Recommendations
+Q17: What insights can you derive from the data about the laptop market?
+Q18: Based on your analysis, what are your recommendations for someone looking to buy a laptop? (e.g., "Brand X is cost-effective for gaming laptops.")
