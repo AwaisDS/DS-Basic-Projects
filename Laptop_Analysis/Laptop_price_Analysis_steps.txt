@@ -16,8 +16,6 @@ Q10: Is there any significant difference in prices based on the type of laptops 
 
 4. Advanced Analysis
 Q11: Which brand offers the best value for money? (Compare price vs. performance features.)
-Q12: Are certain laptop features (e.g., SSD, higher refresh rates) associated with higher prices?
-Q13: Can you identify any trends in pricing based on release year or specifications?
 
 5. Visualize the Insights
 Q14: What are the top 5 brands based on their average laptop price? (Use a bar chart.)
